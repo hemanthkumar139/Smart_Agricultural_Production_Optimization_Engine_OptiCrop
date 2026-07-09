@@ -45,7 +45,9 @@ Recommended crop for cultivation.
 - Model Training
 - Prediction Pipeline
 - Flask Web Application
-
+  
+##Demo video
+-{https://drive.google.com/drive/folders/1ewEHUclMIKXJpvqMua06OdSWKsvrCpSn}
 ## Author
 
 hemanth kumar

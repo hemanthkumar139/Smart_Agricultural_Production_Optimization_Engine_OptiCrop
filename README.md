@@ -47,7 +47,8 @@ Recommended crop for cultivation.
 - Flask Web Application
   
 ##Demo video
--{https://drive.google.com/drive/folders/1ewEHUclMIKXJpvqMua06OdSWKsvrCpSn}
+-{https://drive.google.com/drive/folders/1ewEHUclMIKXJpvqMua06OdSWKsvrCpSn
+}
 ## Author
 
 hemanth kumar
